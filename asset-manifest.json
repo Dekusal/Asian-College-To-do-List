@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/asian-college-to-do-list/static/css/main.7129f01a.chunk.css",
-    "main.js": "/asian-college-to-do-list/static/js/main.e754665f.chunk.js",
-    "main.js.map": "/asian-college-to-do-list/static/js/main.e754665f.chunk.js.map",
-    "runtime-main.js": "/asian-college-to-do-list/static/js/runtime-main.bdd9f21c.js",
-    "runtime-main.js.map": "/asian-college-to-do-list/static/js/runtime-main.bdd9f21c.js.map",
-    "static/js/2.91e46f56.chunk.js": "/asian-college-to-do-list/static/js/2.91e46f56.chunk.js",
-    "static/js/2.91e46f56.chunk.js.map": "/asian-college-to-do-list/static/js/2.91e46f56.chunk.js.map",
-    "index.html": "/asian-college-to-do-list/index.html",
-    "static/css/main.7129f01a.chunk.css.map": "/asian-college-to-do-list/static/css/main.7129f01a.chunk.css.map",
-    "static/js/2.91e46f56.chunk.js.LICENSE.txt": "/asian-college-to-do-list/static/js/2.91e46f56.chunk.js.LICENSE.txt"
+    "main.css": "/Asian-College-To-do-List/static/css/main.7129f01a.chunk.css",
+    "main.js": "/Asian-College-To-do-List/static/js/main.e754665f.chunk.js",
+    "main.js.map": "/Asian-College-To-do-List/static/js/main.e754665f.chunk.js.map",
+    "runtime-main.js": "/Asian-College-To-do-List/static/js/runtime-main.a6c69cff.js",
+    "runtime-main.js.map": "/Asian-College-To-do-List/static/js/runtime-main.a6c69cff.js.map",
+    "static/js/2.91e46f56.chunk.js": "/Asian-College-To-do-List/static/js/2.91e46f56.chunk.js",
+    "static/js/2.91e46f56.chunk.js.map": "/Asian-College-To-do-List/static/js/2.91e46f56.chunk.js.map",
+    "index.html": "/Asian-College-To-do-List/index.html",
+    "static/css/main.7129f01a.chunk.css.map": "/Asian-College-To-do-List/static/css/main.7129f01a.chunk.css.map",
+    "static/js/2.91e46f56.chunk.js.LICENSE.txt": "/Asian-College-To-do-List/static/js/2.91e46f56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bdd9f21c.js",
+    "static/js/runtime-main.a6c69cff.js",
     "static/js/2.91e46f56.chunk.js",
     "static/css/main.7129f01a.chunk.css",
     "static/js/main.e754665f.chunk.js"
