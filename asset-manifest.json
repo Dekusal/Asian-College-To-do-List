@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.7129f01a.chunk.css",
-    "main.js": "/todo-app/static/js/main.e754665f.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.e754665f.chunk.js.map",
-    "runtime-main.js": "/todo-app/static/js/runtime-main.30a07547.js",
-    "runtime-main.js.map": "/todo-app/static/js/runtime-main.30a07547.js.map",
-    "static/js/2.91e46f56.chunk.js": "/todo-app/static/js/2.91e46f56.chunk.js",
-    "static/js/2.91e46f56.chunk.js.map": "/todo-app/static/js/2.91e46f56.chunk.js.map",
-    "index.html": "/todo-app/index.html",
-    "static/css/main.7129f01a.chunk.css.map": "/todo-app/static/css/main.7129f01a.chunk.css.map",
-    "static/js/2.91e46f56.chunk.js.LICENSE.txt": "/todo-app/static/js/2.91e46f56.chunk.js.LICENSE.txt"
+    "main.css": "/asian-college-to-do-list/static/css/main.7129f01a.chunk.css",
+    "main.js": "/asian-college-to-do-list/static/js/main.e754665f.chunk.js",
+    "main.js.map": "/asian-college-to-do-list/static/js/main.e754665f.chunk.js.map",
+    "runtime-main.js": "/asian-college-to-do-list/static/js/runtime-main.bdd9f21c.js",
+    "runtime-main.js.map": "/asian-college-to-do-list/static/js/runtime-main.bdd9f21c.js.map",
+    "static/js/2.91e46f56.chunk.js": "/asian-college-to-do-list/static/js/2.91e46f56.chunk.js",
+    "static/js/2.91e46f56.chunk.js.map": "/asian-college-to-do-list/static/js/2.91e46f56.chunk.js.map",
+    "index.html": "/asian-college-to-do-list/index.html",
+    "static/css/main.7129f01a.chunk.css.map": "/asian-college-to-do-list/static/css/main.7129f01a.chunk.css.map",
+    "static/js/2.91e46f56.chunk.js.LICENSE.txt": "/asian-college-to-do-list/static/js/2.91e46f56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30a07547.js",
+    "static/js/runtime-main.bdd9f21c.js",
     "static/js/2.91e46f56.chunk.js",
     "static/css/main.7129f01a.chunk.css",
     "static/js/main.e754665f.chunk.js"
